@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to plugged
 
-You can use the [editor on GitHub](https://github.com/pluggedapp/pluggedandroid/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+plugged is an open source android application for news that is more than a replicated rss reader made by
+abdelhady from egypt .
 
 ### Markdown
 
